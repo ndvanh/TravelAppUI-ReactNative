@@ -1,0 +1,64 @@
+{
+    "DATA":[
+        {
+            "id": 1,
+            "ten": "Hà Nội",
+            "kc":"0km",
+            "anh": "https://bigvn.blog/dp/wp-content/uploads/2018/07/ha-noi-co-bao-nhieu-quan8-1.jpg"
+          },
+          {
+            "id": 2,
+            "ten": "Thành phố HCM",
+            "kc":"1723km",
+            "anh": "https://media-cdn.laodong.vn/storage/newsportal/2020/4/28/801886/1-5.jpg"
+          },
+          {
+            "id": 3,
+            "ten": "Đà Nẵng",
+            "kc":"769km",
+            "anh": "https://cdn.tgdd.vn/Files/2021/05/21/1353493/top-nhung-dia-diem-check-in-noi-tieng-khi-di-du-li-2.jpg"
+          },
+          {
+            "id": 4,
+            "ten": "Huế",
+            "kc":"688km",
+            "anh": "https://vcdn-vnexpress.vnecdn.net/2021/05/10/dn1-7717-1620653562.jpg"
+          },
+          {
+            "id": 5,
+            "ten": "Sapa",
+            "kc":"315km",
+            "anh": "https://vietjet.net/includes/uploads/2021/01/Phan-Xi-P%C4%83ng-%E1%BB%9F-%C4%91%C3%A2u.jpg"
+          },
+          {
+            "id": 6,
+            "ten": "Hạ Long",
+            "kc":"170km",
+           "anh": "https://owa.bestprice.vn/images/tours/uploads/ha-long-tuan-chau-2-ngay-1-dem-5e5642a3b1b03.jpg"
+          },
+          {
+            "id": 7,
+            "ten": "Phú Quốc",
+            "kc":"1633km",
+            "anh": "https://hanoimoi.com.vn/Uploads/images/tuandiep/2021/09/07/dulich.JPG"
+          },
+          {
+            "id": 8,
+            "ten": "Hội An",
+            "kc":"797km",
+            "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/hoi-an-quang-nam-vntrip-1.jpg"
+          },
+          {
+            "id": 9,
+            "ten": "Hà Giang",
+            "kc":"281km",
+            "anh": "https://vnn-imgs-f.vgcloud.vn/2021/11/09/10/me-dam-trong-le-hoi-hoa-tam-giac-mach-tinh-ha-giang-lan-thu-vii-1.jpg"
+          },
+          {
+            "id": 10,
+            "ten": "Nha Trang",
+            "kc":"1285km",
+            "anh": "https://wiki-travel.com.vn/uploads/picture/Viet_Dung-184602034655-nha-trang.jpg"
+          }
+    ]
+}

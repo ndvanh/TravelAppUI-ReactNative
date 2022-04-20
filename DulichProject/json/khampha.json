@@ -1,0 +1,53 @@
+{
+    "DATA":[
+        {
+            "id": 1,
+            "ten": "Văn Miếu, địa điểm du lịch nổi tiếng ở Hà Nội",
+            "tg":"9:00AM 01/01/2022",
+            "anh": "https://4.bp.blogspot.com/-7gTnI20hJMk/W0kQcV5O5bI/AAAAAAAAVmI/dY3FOtXqUhAira9YcUU_ImMirTnispC6ACLcBGAs/s1600/diem-du-lich-ha-noi-5.jpg"
+          },
+          {
+            "id": 2,
+            "ten": "Nhà thờ Đức Bà, một trong những công trình đẹp nhất thành phố mang tên Bác",
+            "tg":"10:00AM 01/01/2022",
+            "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/07/5214486810_49ccd5c42f_z-1.jpg"
+          },
+          {
+            "id": 3,
+            "ten": " Khám phá Ngũ Hành Sơn, một địa danh hàng đầu của tp Đà Nẵng ",
+            "tg":"11:00AM 01/01/2022",
+            "anh": "https://baolongantourist.com/wp-content/uploads/2020/04/nui-ngu-hanh-son-da-nang-1.jpg"
+          },
+          {
+            "id": 4,
+            "ten": "Lăng Cô, một trong những bãi biển hoang sơ và đẹp nhất Việt Nam nằm tại Huế",
+            "tg":"04:00AM 01/01/2022",
+            "anh": "https://dulichkhampha24.com/wp-content/uploads/2020/02/vinh-lang-co-hue-c.jpg"
+          },
+          {
+            "id": 5,
+            "ten": "Đỉnh Fansipan, nóc nhà Đông Dương cao nhất Việt Nam, tìm hiểu ngay",
+            "tg":"05:00PM 01/01/2022",
+            "anh": "https://vietjet.net/includes/uploads/2021/01/Phan-Xi-P%C4%83ng-%E1%BB%9F-%C4%91%C3%A2u.jpg"
+          },
+          {
+            "id": 6,
+            "ten": "Du lịch Hạ Long đầu năm, cần chú ý những gì",
+            "tg":"06:00AM 02/01/2022",
+           "anh": "https://owa.bestprice.vn/images/tours/uploads/ha-long-tuan-chau-2-ngay-1-dem-5e5642a3b1b03.jpg"
+          },
+          {
+            "id": 7,
+            "ten": "Phú Quốc, thiên đường đảo ngọc, bỏ túi ngay những tip hay",
+            "tg":"08:32AM 02/01/2022",
+            "anh": "https://hanoimoi.com.vn/Uploads/images/tuandiep/2021/09/07/dulich.JPG"
+          },
+          {
+            "id": 8,
+            "ten": "Phố cổ Hội An cổ kính đón lượng du khách đầu tiên năm 2022",
+            "tg":"11:00AM 02/01/2022",
+            "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/hoi-an-quang-nam-vntrip-1.jpg"
+          }
+         
+    ]
+}

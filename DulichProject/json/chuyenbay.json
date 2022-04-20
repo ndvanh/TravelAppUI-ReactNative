@@ -1,0 +1,486 @@
+{
+    "DiemDen":[
+        {
+            "id": 1,
+            "diadiem": "TP.HCM - Buôn Ma Thuột",
+            "giave":"600.000 VND/chiều",
+            "anh": "https://vemaybaybamboo.com.vn/wp-content/uploads/2019/01/buon-ma-thuot-3.jpg"
+        },
+        {
+            "id": 2,
+            "diadiem": "TP.HCM - Đà Lạt",
+            "giave":"550.000 VND/chiều",
+            "anh": "https://3.bp.blogspot.com/-LxTS0u7wQs8/WmwYjbL4nXI/AAAAAAAAAbA/HBDcCAc4_1gs6u0GZHKLAimXQpUfbwkUQCLcBGAs/s1600/53.jpg"
+        },
+        {
+            "id": 3,
+            "diadiem": "TP.HCM - Đà Nẵng",
+            "giave":"550.000 VND/chiều",
+            "anh": "http://baochinhphu.vn/Uploaded/tranthithom/2021_03_16/da-nang.jpg"
+        },
+        {
+            "id": 4,
+            "diadiem": "TP.HCM - Hà Nội",
+            "giave":"600.000 VND/chiều",
+            "anh": "https://tiengnhatgiaotiep.edu.vn/images/2020/01/15/0-hoc-tieng-nhat-ve-cac-dia-danh-noi-tieng-ha-noi.jpg"
+        },
+        {
+            "id": 5,
+            "diadiem": "TP.HCM - Quy Nhơn",
+            "giave":"700.000 VND/chiều",
+            "anh": "https://quynhontourist.vn/wp-content/uploads/2020/09/city-tour-quy-nhon-quynhontourist.jpg"
+        },
+        {
+            "id": 6,
+            "diadiem": "Hà Nội - Đà Lạt",
+            "giave":"800.000 VND/chiều",
+            "anh": "https://247news.vn/wp-content/uploads/2022/01/campartmojen-1640771130-b60c9c46.jpg"
+        },
+        {
+            "id": 7,
+            "diadiem": "Hà Nội - TP.HCM",
+            "giave":"600.000 VND/chiều",
+            "anh": "https://hdproland.com/media/uploads/uploads/27115239-hinh-anh-thuc-te-trung-tam-tp-hcm.jpg"
+        },
+        {
+            "id": 8,
+            "diadiem": "Hà Nội - Đà Nẵng",
+            "giave":"600.000 VND/chiều",
+            "anh": "https://innoviet.com/upload/2020/Blog/best-places-to-travel-by-tour-guide/golden-brige-innoviet-best-places-to-travel-by-tour-guide.jpg"
+        }
+    ],
+    "VietjetAir":[
+        {
+            "id": 1,
+            "diadiem": "TP.HCM - Hà Nội",
+            "giave":"499.900 VND",
+            "anh": "https://4.bp.blogspot.com/-7gTnI20hJMk/W0kQcV5O5bI/AAAAAAAAVmI/dY3FOtXqUhAira9YcUU_ImMirTnispC6ACLcBGAs/s1600/diem-du-lich-ha-noi-5.jpg"
+        },
+        {
+            "id": 2,
+            "diadiem": "TP.HCM - Đà Nẵng",
+            "giave":"353.600 VND",
+            "anh": "https://outgotrip.com/wp-content/uploads/2017/08/cau-rong-da-nang-e1501671549619.jpg"
+        },
+        {
+            "id": 3,
+            "diadiem": "TP.HCM - Nha Trang",
+            "giave":"386.600 VND",
+            "anh": "https://wiki-travel.com.vn/uploads/picture/Viet_Dung-184602034655-nha-trang.jpg"
+        },
+        {
+            "id": 4,
+            "diadiem": "TP.HCM - Đà Lạt",
+            "giave":"375.600 VND",
+            "anh": "https://247news.vn/wp-content/uploads/2022/01/campartmojen-1640771130-b60c9c46.jpg"
+        },
+        {
+            "id": 5,
+            "diadiem": "Hà Nội - Đà Nẵng",
+            "giave":"386.600 VND",
+            "anh": "https://innoviet.com/upload/2020/Blog/best-places-to-travel-by-tour-guide/golden-brige-innoviet-best-places-to-travel-by-tour-guide.jpg"
+        },
+        {
+            "id": 6,
+            "diadiem": "Hà Nội - Phú Quốc",
+            "giave":"353.600 VND",
+            "anh": "https://hanoimoi.com.vn/Uploads/images/tuandiep/2021/09/07/dulich.JPG"
+        },
+        {
+            "id": 7,
+            "diadiem": "TP.HCM - Huế",
+            "giave":"353.600 VND",
+            "anh": "https://vcdn-vnexpress.vnecdn.net/2021/05/10/dn1-7717-1620653562.jpg"
+        }  
+    ],
+    "BambooAirways":[
+        {
+            "id": 1,
+            "diadiem": "Hà Nội - Huế",
+            "giave":"353.600 VND",
+            "anh": "https://vcdn-vnexpress.vnecdn.net/2021/05/10/dn1-7717-1620653562.jpg"
+        },
+        {
+            "id": 2,
+            "diadiem": "TP.HCM - Hội An",
+            "giave":"353.600 VND",
+            "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/08/hoi-an-quang-nam-vntrip-1.jpg"
+        },
+        {
+            "id": 3,
+            "diadiem": "TP.HCM - Pleiku",
+            "giave":"375.600 VND",
+            "anh": "https://i.ytimg.com/vi/IJazuvSLRz0/maxresdefault.jpg"
+        },
+        {
+            "id": 4,
+            "diadiem": "TP.HCM - Hà Nội",
+            "giave":"499.900 VND",
+            "anh": "https://wall.vn/wp-content/uploads/2020/04/chua-mot-cot.jpg"
+        },
+        {
+            "id": 5,
+            "diadiem": "TP.HCM - Đà Nẵng",
+            "giave":"353.600 VND",
+            "anh": "https://outgotrip.com/wp-content/uploads/2017/08/cau-rong-da-nang-e1501671549619.jpg"
+        },
+        {
+            "id": 6,
+            "diadiem": "TP.HCM - Nha Trang",
+            "giave":"386.600 VND",
+            "anh": "https://wiki-travel.com.vn/uploads/picture/Viet_Dung-184602034655-nha-trang.jpg"
+        },
+        {
+            "id": 7,
+            "diadiem": "TP.HCM - Phú Quốc",
+            "giave":"463.600 VND",
+            "anh": "https://hanoimoi.com.vn/Uploads/images/tuandiep/2021/09/07/dulich.JPG"
+        }
+    ],
+    "VietnamAirlines":[
+        {
+            "id": 1,
+            "diadiem": "TP.HCM - Hải Phòng",
+            "giave":"475.600 VND",
+            "anh": "https://cdnimg.vietnamplus.vn/uploaded/xpcwvovt/2020_10_13/cauhoang_van_thu.jpg"
+        },
+        {
+            "id": 2,
+            "diadiem": "TP.HCM - Quy Nhơn",
+            "giave":"353.600 VND",
+            "anh": "https://quynhontourist.vn/wp-content/uploads/2020/09/city-tour-quy-nhon-quynhontourist.jpg"
+        },
+        {
+            "id": 3,
+            "diadiem": "TP.HCM - Huế",
+            "giave":"353.600 VND",
+            "anh": "https://dulichkhampha24.com/wp-content/uploads/2020/02/vinh-lang-co-hue-c.jpg"
+        },
+        {
+            "id": 4,
+            "diadiem": "Đà Nẵng - Hà Nội",
+            "giave":"375.600 VND",
+            "anh": "https://halotravel.vn/wp-content/uploads/2020/11/du-lich-pho-co-ha-noi.jpg"
+        },
+        {
+            "id": 5,
+            "diadiem": "Đà Nẵng - Phú Quốc",
+            "giave":"676.000 VND",
+            "anh": "https://hanoimoi.com.vn/Uploads/images/tuandiep/2021/09/07/dulich.JPG"
+        },
+        {
+            "id": 6,
+            "diadiem": "Đà Nẵng - TP.HCM",
+            "giave":"353.600 VND",
+            "anh": "https://cdn.vntrip.vn/cam-nang/wp-content/uploads/2017/07/5214486810_49ccd5c42f_z-1.jpg"
+        },
+        {
+            "id": 7,
+            "diadiem": "Hà Nội - Nha Trang",
+            "giave":"386.600 VND",
+            "anh": "https://wiki-travel.com.vn/uploads/picture/Viet_Dung-184602034655-nha-trang.jpg"
+        },
+        {
+            "id": 8,
+            "diadiem": "Huế - Hà Nội",
+            "giave":"353.600 VND",
+            "anh": "https://wall.vn/wp-content/uploads/2020/04/chua-mot-cot.jpg"
+        }
+    ],
+    "Chitiet1":[
+        {
+            "id": 1,
+            "thoigian": "12:25 - 13:50",
+            "giagoc":"634.900 VND/khách",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 2,
+            "thoigian": "17:35 - 19:00",
+            "giagoc":"634.900 VND/khách",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 3,
+            "thoigian": "10:35 - 12:05",
+            "giagoc":"600.600 VND/khách",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 4,
+            "thoigian": "06:10 - 07:30",
+            "giagoc":"600.600 VND/khách",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "https://www.ch-aviation.com/portal/stock/7486.jpg",
+            "hangbay": "Vietravel Airlines"
+        },
+        {
+            "id": 5,
+            "thoigian": "12:25 - 13:50",
+            "giagoc":"634.900 VND/khách",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 6,
+            "thoigian": "09:35 - 10:00",
+            "giagoc":"634.900 VND/khách",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 7,
+            "thoigian": "11:35 - 13:05",
+            "giagoc":"600.600 VND/khách",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 8,
+            "thoigian": "15:10 - 16:30",
+            "giagoc":"600.600 VND/khách",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "SGN - BMV",
+            "anh": "https://www.ch-aviation.com/portal/stock/7486.jpg",
+            "hangbay": "Vietravel Airlines"
+        }
+    ],
+    "Chitiet2":[
+        {
+            "id": 1,
+            "thoigian": "22:15 - 00:25",
+            "giagoc":"503.900 VND/khách",
+            "giakhuyenmai": "499.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 2,
+            "thoigian": "19:25 - 21:35",
+            "giagoc":"",
+            "giakhuyenmai": "518.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 3,
+            "thoigian": "21:15 - 23:25",
+            "giagoc":"",
+            "giakhuyenmai": "518.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 4,
+            "thoigian": "12:20 - 14:30",
+            "giagoc":"",
+            "giakhuyenmai": "523.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 5,
+            "thoigian": "13:25 - 15:35",
+            "giagoc":"",
+            "giakhuyenmai": "523.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 6,
+            "thoigian": "13:50 - 16:00",
+            "giagoc":"",
+            "giakhuyenmai": "533.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 7,
+            "thoigian": "14:40 - 16:50",
+            "giagoc":"",
+            "giakhuyenmai": "533.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        },
+        {
+            "id": 8,
+            "thoigian": "15:40 - 17:50",
+            "giagoc":"",
+            "giakhuyenmai": "533.900 VND",
+            "diadiem": "SGN - HAN",
+            "anh": "http://aviacheap.ru/wp-content/uploads/lowcosters/VietJet-Air.jpg",
+            "hangbay": "VietJet Air"
+        }
+    ],
+    "Chitiet3":[
+        {
+            "id": 1,
+            "thoigian": "16:15 - 18:25",
+            "giagoc":"466.900 VND/khách",
+            "giakhuyenmai": "353.600 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 2,
+            "thoigian": "18:30 - 20:40",
+            "giagoc":"",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 3,
+            "thoigian": "06:00 - 08:10",
+            "giagoc":"",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 4,
+            "thoigian": "07:00 - 09:10",
+            "giagoc":"",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 5,
+            "thoigian": "09:30 - 11:40",
+            "giagoc":"",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 6,
+            "thoigian": "10:10 - 12:20",
+            "giagoc":"",
+            "giakhuyenmai": "466.900 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 7,
+            "thoigian": "10:45 - 12:55",
+            "giagoc":"",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        },
+        {
+            "id": 8,
+            "thoigian": "15:10 - 16:30",
+            "giagoc":"",
+            "giakhuyenmai": "495.600 VND",
+            "diadiem": "HAN - HUI",
+            "anh": "https://aeronautica.online/wp-content/uploads/2019/01/Bamboo-Airways-logo-1920x600.jpg",
+            "hangbay": "Bamboo Airways"
+        }
+    ],
+    "Chitiet4":[
+        {
+            "id": 1,
+            "thoigian": "15:40 - 17:50",
+            "giagoc":"534.900 VND/khách",
+            "giakhuyenmai": "475.600 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 2,
+            "thoigian": "17:35 - 19:00",
+            "giagoc":"",
+            "giakhuyenmai": "534.900 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 3,
+            "thoigian": "10:35 - 12:05",
+            "giagoc":"",
+            "giakhuyenmai": "534.900 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 4,
+            "thoigian": "06:10 - 07:30",
+            "giagoc":"",
+            "giakhuyenmai": "600.600 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 5,
+            "thoigian": "12:25 - 13:50",
+            "giagoc":"",
+            "giakhuyenmai": "600.600 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 6,
+            "thoigian": "09:35 - 10:00",
+            "giagoc":"",
+            "giakhuyenmai": "634.900 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 7,
+            "thoigian": "11:35 - 13:05",
+            "giagoc":"",
+            "giakhuyenmai": "634.900 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        },
+        {
+            "id": 8,
+            "thoigian": "15:10 - 16:30",
+            "giagoc":"",
+            "giakhuyenmai": "634.900 VND",
+            "diadiem": "SGN - HPH",
+            "anh": "https://pluspng.com/img-png/vietnam-airlines-logo-vector-png-vietnam-airlines-logo-renewed-company-logo-2250.png",
+            "hangbay": "Vietnam Airlines"
+        }
+    ]
+}

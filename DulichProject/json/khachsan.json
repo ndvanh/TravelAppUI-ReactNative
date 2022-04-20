@@ -1,0 +1,166 @@
+{
+    "DATA":[
+        {
+            "id": 1,
+            "diadiem": "Hồ Hoàn Kiếm, địa điểm du lịch này nổi tiếng ở Hà Nội.",
+            "slks":"58 Khách sạn gần  Giá cực ưu đãi",
+            "anh": "https://35express.org/wp-content/uploads/2020/01/hinh-anh-thap-rua-ho-guom-3.jpg"
+          },
+          {
+            "id": 2,
+            "diadiem": "Núi Langbiang có lẽ là cái tên rất quen thuộc tại Đà Lạt.",
+            "slks":"67 Khách sạn gần Có view chụp đẹp",
+            "anh": "https://vietnamyounglions.vn/khu-du-lich-langbiang-da-lat/imager_12202.jpg"
+          },
+          {
+            "id": 3,
+            "diadiem": " Khu du lịch Bà Nà - Núi Chúa điểm du lịch nổi bật ở Đà Nẵng  ",
+            "slks":"89 Khách sạn gần Biển đẹp mê ly",
+            "anh": "https://luhanhvietnam.com.vn/du-lich/vnt_upload/news/04_2019/ba-na_1.jpg"
+          },
+          {
+            "id": 4,
+            "diadiem": "Nhà thờ Tân Định (Địa Điểm Sống Ảo TP Hồ Chí Minh)",
+            "slks":"Gần 45 Khách sạn nơi đây",
+            "anh": "https://danangaz.com/wp-content/uploads/2020/03/du-lich-tphcm-14-min-1068x1335.jpg"
+          },
+          {
+            "id": 5,
+            "diadiem": "Đỉnh Fansipan đỉnh núi cao nhất Việt Nam (thuộc tp.Lào Cai)",
+            "slks":"Gần 55 Khách sạn phía chân núi",
+            "anh": "https://vietjet.net/includes/uploads/2021/01/Phan-Xi-P%C4%83ng-%E1%BB%9F-%C4%91%C3%A2u.jpg"
+          },
+          {
+            "id": 6,
+            "diadiem": "Vinpearland Bãi biểm mơ mộng (Nha Trang )",
+            "slks":"Gần 129 Khách sạn tại Bờ biển",
+           "anh": "https://mktravel.com.vn/assets/image/product_main/original/ha-noi-nha-trang-da-lat.jpg"
+          },
+          {
+            "id": 7,
+            "diadiem": "Du lịch, Khám phá Tam Đảo xứ sở cổ kính (Vĩnh Phúc)",
+            "slks":"Gần 79 Khách sạn ở các điểm du lịch",
+            "anh": "https://media.cungphuot.info/2014/09/13581/quang-truong-trung-tam.jpg"
+          }
+         
+    ],
+
+    "DATA1":[
+        {
+            "id": 1,
+            "tenks": "Babylon Garden Hotel and Spa",
+            "tt":"Babylon Garden Hotel & Spa cung cấp chỗ nghỉ cách Đền Ngọc Sơn 300 m và Hồ Hoàn Kiếm 400 m. ",
+            "anh": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/185963891.jpg?k=fd799f2328f71bab77012d613387dec0232da47f60219e82624ffb63ceeace09&o=&hp=1",
+            "gia": "320,000vnd/khách/đêm"
+        },
+          {
+            "id": 2,
+            "tenks": "Khách Sạn Golf Valley (Golf Valley Hotel)",
+            "tt":"Khách sạn Golf Valley là khách sạn ở Đà Lạt có view đẹp mà nhiều du khách đã trải nghiệm. ",
+            "anh": "https://static.mservice.io/blogscontents/momo-upload-api-191119135436-637097684768955316.png",
+            "gia" : "450,000vnd/khách/đêm"
+          },
+          {
+            "id": 3,
+            "tenks": " Pullman Danang Beach Resort ",
+            "tt":"Khu resort thiết kế tuyệt đẹp bên bờ biển Đà Nẵng. Các dịch vụ rất xứng đáng giá tiền mình bỏ ra.",
+            "anh": "https://onedanang.vn/Content/UserUploads/Images/Hotels/5/fb_220595717%20(2).jpg",
+            "gia" : "1,706,000vnd/khách/đêm"
+          },
+          {
+            "id": 4,
+            "tenks": "Lotte Hotel SAIGON",
+            "tt":"Khi ở tại Khách sạn Lotte Legend Sài Gòn, du khách có thể khám phá những điểm đến hàng đầu của Thành phố Hồ Chí Minh.",
+            "anh": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/55/6e/db/pool-bar.jpg?w=1400&h=-1&s=1",
+            "gia" : "2,850,000vnd/khách/đêm"
+          },
+          {
+            "id": 5,
+            "tenks": "KK Sapa Hotel",
+            "tt":"Nằm ở vị trí thuận lợi trong Trung tâm Thành phố Sapa, KK Sapa Hotel là lý tưởng để khởi hành chuyến du ngoạn của bạn ở Sapa.",
+            "anh": "https://pix8.agoda.net/hotelImages/8099799/-1/cd26223a233cf8e3ddb79ed6258d8bc7.jpg?ca=12&ce=1&s=1024x768",
+            "gia" : "1,990,000vnd/khách/đêm"
+          },
+          {
+            "id": 6,
+            "tenks": "AQUA SEAVIEW HOTEL",
+            "tt":"Đối diện bv Vinmec (rất tiện cho bạn nào cần test nhanh trong thời điểm dịch). Gần khu cảng để ra Vinpearl xung quanh có các hàng tạp hóa.",
+           "anh": "https://lh3.googleusercontent.com/p/AF1QipMqpLWn8vEhoTAyz-1t2X6_ppXZaHez2a1zKMU4=w592-h404-n-k-rw-no-v1",
+           "gia" : "330,000vnd/khách/đêm"
+          },
+          {
+            "id": 7,
+            "tenks": "Khách sạn Venus Tam Đảo",
+            "tt":"Venus Hotel Tam Đảo nằm cách huyện Ba Vì 50, sân bay gần nhất là sân bay quốc tế Nội Bài.",
+            "anh": "https://lh3.googleusercontent.com/p/AF1QipMBLpTyQubn8pD17_jXh15xQvBAzy4TXLpA4jY2=w592-h404-n-k-rw-no-v1",
+            "gia" : "1,730,000vnd/khách/đêm"
+          }
+         
+    ],
+    "DATA3":[
+      {
+          "id": 1,
+          "ten": "Hội An",
+          "kc":"797km",
+          "anh": "https://www.hoteljob.vn/files/Pic/Mo-hinh-to-chuc-nhan-su-trong-khach-san-5-sao-01.png"
+        },
+        {
+          "id": 2,
+          "ten": "Hà Giang",
+          "kc":"281km",
+          "anh": "https://ezcloud.vn/wp-content/uploads/2019/03/kinh-doanh-khach-san-1.jpg"
+         
+        },
+        {
+          "id": 3,
+          "ten": "Đà Nẵng",
+          "kc":"769km",
+          "anh": "https://vr360.com.vn/uploads/images/anh%20chup%20khach%20san.jpg"
+        },
+        {
+          "id": 4,
+          "ten": "Huế",
+          "kc":"688km",
+          "anh": "https://toplist.vn/images/800px/indochine-palace-hotel-333040.jpg"
+        },
+        {
+          "id": 5,
+          "ten": "Sapa",
+          "kc":"315km",
+          "anh": "https://cdn.vietnammoi.vn/2019/10/15/copy-of-copy-of-1218-ajs-hotel-de-coupole-sapa-0060hnlv3-hd-15711104918201428559962.jpg"
+        },
+        {
+          "id": 6,
+          "ten": "Hạ Long",
+          "kc":"170km",
+         "anh": "https://pix10.agoda.net/hotelImages/5831353/-1/14de8cb27ea7f96aef70ee519127ca31.jpg?s=1024x768"
+        },
+        {
+          "id": 7,
+          "ten": "Đà Lạt",
+          "kc":"1633km",
+          "anh": "https://dulichdalat.pro/wp-content/uploads/2020/02/khach-san-ttc-ngoc-lan-o-da-lat.jpg"
+        },
+        {
+          "id": 8,
+          "ten": "Hà Nội",
+          "kc":"0km",
+          "anh": "https://cf.bstatic.com/xdata/images/hotel/max1280x900/160407717.jpg?k=d73ca7ad7358842310dd3b1f306da1ff74116205a1e04b0366383005ca86bc2e&o=&hp=1"
+         
+        },
+        {
+          "id": 9,
+          "ten": "Thành phố HCM",
+          "kc":"1723km",
+          "anh": "https://media-cdn.laodong.vn/storage/newsportal/2020/4/28/801886/1-5.jpg"
+        },
+        {
+          "id": 10,
+          "ten": "Nha Trang",
+          "kc":"1285km",
+          "anh": "https://images.unsplash.com/photo-1533002832-1721d16b4bb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"
+        }
+  ]
+    
+}
+
